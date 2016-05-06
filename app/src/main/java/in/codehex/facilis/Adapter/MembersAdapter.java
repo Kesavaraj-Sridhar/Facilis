@@ -1,4 +1,4 @@
-package in.codehex.facilis.Adapter;
+package in.codehex.facilis.adapter;
 
 import android.graphics.Color;
 import android.support.v7.widget.RecyclerView;

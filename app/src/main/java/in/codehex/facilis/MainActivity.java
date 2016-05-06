@@ -15,7 +15,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
-import in.codehex.facilis.Adapter.MembersAdapter;
+import in.codehex.facilis.adapter.MembersAdapter;
 import in.codehex.facilis.model.Members;
 
 
